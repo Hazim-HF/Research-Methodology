@@ -1,0 +1,33 @@
+Research Proposal
+
+Dear Students,
+
+As part of the course, you are required to prepare and submit a comprehensive research proposal, which includes both a written document and a presentation. This assignment is designed to develop your ability to plan research systematically and communicate it effectively in both written and verbal formats.
+
+Research Proposal Report (30%) - Due date 22/6/2025
+
+1. Choose a specific, relevant, and researchable topic within the field of data science and analytics. Ensure that the research problem addresses a knowledge gap or practical issue that can be realistically explored.
+
+
+
+2. The proposal should include the following sections:
+
+i. Title Page: Title, name, matric number
+
+ii. Introduction/Background of the study: Introduce the topic, explain the relevance and significance of the research
+
+iii. Problem Statement: Define the specific research problem or gap of study
+
+iv. Research Objectives: State 2-3 research objectives of the study
+
+v. Literature Review: Summarize relevant literature leading to the research gap
+
+vi. Methodology: Outline research design, data collection and analysis methods
+
+vii. Timeline: Propose a Gantt chart
+
+viii. References: List 10-15 references
+
+Research Proposal Presentation (25%) – Tentative Date: 5/7/2025
+
+The research proposal presentation consists of a 15-minute oral presentation and a 5-minute Q&A session (Total: 20 minutes/student). Please stay within the time limit.
